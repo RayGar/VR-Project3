@@ -1,7 +1,7 @@
 # VR-Project3
 This is mine and Luciano Wolffe's repository for project 3 of our VR class. We propose a game like Sponge Ball in VR. We think it would be really simple to implement and fun to play.
 
-# Proposal
+## Proposal
 Name: VR Ball
 
 Description: The game would be inspired by Sponge Ball from the Spongebob Squarepants: the Movie Game. The user would control a ball in a VR environment where the goal is to reach a certain endpoint with different obstacles throughout the level.
@@ -16,17 +16,17 @@ Objects: We plan on creating all of the models and textures just like in Project
 
 
 
-# Important Links:
+## Important Links:
 
-Video Link: https://drive.google.com/file/d/1h8R-Ab57Kx9HU2n8it-GLvjUI_YZn78o/view
+[Video Link](https://drive.google.com/file/d/1h8R-Ab57Kx9HU2n8it-GLvjUI_YZn78o/view)
 
-Demo Link: https://github.com/RayGar/VR-Project3/raw/master/version0.6.apk
+[Demo Link](https://github.com/RayGar/VR-Project3/raw/master/version0.6.apk)
 
 Libraries used - 
 Engine: Unity 5
 SDK: Samsung GEAR VR (not compatible with other VR SDKs)
 
-# Installation Instructions:
+## Installation Instructions:
 
 You will need the following hardware to run this project:
 
@@ -51,41 +51,39 @@ Controls and Objective of this application:
 Simply move the controllers Joystick to move the ball. On a VR headset, move your head to move the camera around. This game is very simple, just roll the ball to the finish line, avoid all obstacles and don't fall off the platforms throughout 3 different levels.
 
 
-# Imported Assets:
+## Imported Assets:
 
-Low Poly Styled rocks - https://assetstore.unity.com/packages/3d/props/exterior/low-poly-styled-rocks-43486 - 3D models for rocks
+* Low Poly Styled rocks - https://assetstore.unity.com/packages/3d/props/exterior/low-poly-styled-rocks-43486 - 3D models for rocks
 
-Planet Earth Free - https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399 - a model of the planet Earth
+* Planet Earth Free - https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399 - a model of the planet Earth
 
-Platform Builder Pro - https://assetstore.unity.com/packages/tools/modeling/platform-builder-pro-71395 - an in-Unity tool to create in-game platform models
+* Platform Builder Pro - https://assetstore.unity.com/packages/tools/modeling/platform-builder-pro-71395 - an in-Unity tool to create in-game platform models
 
-Sci-fi platforms- https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-platforms-83091 - models for some 3D platforms with a sci fi theme
+* Sci-fi platforms- https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-platforms-83091 - models for some 3D platforms with a sci fi theme
 
-Earth and Planets Skyboxes - https://assetstore.unity.com/packages/2d/textures-materials/sky/earth-planets-skyboxes-53752 - space themed skyboxes, we oly used the Purple Nebula one
+* Earth and Planets Skyboxes - https://assetstore.unity.com/packages/2d/textures-materials/sky/earth-planets-skyboxes-53752 - space themed skyboxes, we oly used the Purple Nebula one
 
-Star Creation Tools - https://assetstore.unity.com/packages/2d/textures-materials/star-creation-tools-80595 - 3D models for stars and the Sun.
+* Star Creation Tools - https://assetstore.unity.com/packages/2d/textures-materials/star-creation-tools-80595 - 3D models for stars and the Sun.
 
-Level 1 background music = Link: http://66.90.93.122/soundfiles/playstation-psf/tekken-3/SLUS-00402_206%20-%20Nobuyoshi%20Sano%20-%20Paul%20Phoenix.mp3
-
+* Level 1 background music = Link: http://66.90.93.122/soundfiles/playstation-psf/tekken-3/SLUS-00402_206%20-%20Nobuyoshi%20Sano%20-%20Paul%20Phoenix.mp3
 Also credit to Bandai Namco and the Tekken 3 developers: https://en.wikipedia.org/wiki/Tekken_3
 
-Level 2 background music: Link:https://www.zophar.net/music/playstation-psf/street-fighter-ex2-plus
-
+* Level 2 background music: Link:https://www.zophar.net/music/playstation-psf/street-fighter-ex2-plus
 Also credit to Capcom (publisher) and Arika (developers) from Street Fighter EX 3: https://en.wikipedia.org/wiki/Street_Fighter_EX3
 
-# Duties:
+## Duties:
 
 Ray - Imported the GEAR VR SDK, testing on live devices, all the level 1 and level 3 platforms. Imported the Earth and Sun models as playable characters. Player controller script. Imported the space skybox.
 
-Luciano - Level 3 platforms. Deadpool playable character.
+Luciano - Level 1 and 2 platforms. Deadpool playable character.
 
-# Issues:
+## Issues:
 
-Using the headset's touchpad as a controller for the player's movement. Instead we had to bring in a PS4 controller and use the joystick to achieve movement
+Using the headset's touchpad as a controller for the player's movement felt awkward in-game. Instead we had to bring in a PS4 controller and use the joystick to achieve movement
 
-Time constraints. For this project we only had two weeks to work on it as such that's why there's only 3 levels in the game.
+We made our game too hard at first.
 
-# Tutorials' and other Resources Used:
+## Tutorials' and other Resources Used:
 
 Surprisingly, we didn't use any tutorials this time. We learned everything we needed to know on previous Unity projects. We just applied them here.
 
