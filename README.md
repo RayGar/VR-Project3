@@ -65,6 +65,14 @@ Earth and Planets Skyboxes - https://assetstore.unity.com/packages/2d/textures-m
 
 Star Creation Tools - https://assetstore.unity.com/packages/2d/textures-materials/star-creation-tools-80595 - 3D models for stars and the Sun.
 
+Level 1 background music = Link: http://66.90.93.122/soundfiles/playstation-psf/tekken-3/SLUS-00402_206%20-%20Nobuyoshi%20Sano%20-%20Paul%20Phoenix.mp3
+
+Also credit to Bandai Namco and the Tekken 3 developers: https://en.wikipedia.org/wiki/Tekken_3
+
+Level 2 background music: Link:https://www.zophar.net/music/playstation-psf/street-fighter-ex2-plus
+
+Also credit to Capcom (publisher) and Arika (developers) from Street Fighter EX 3: https://en.wikipedia.org/wiki/Street_Fighter_EX3
+
 # Duties:
 
 Ray - Imported the GEAR VR SDK, testing on live devices, all the level 1 and level 3 platforms. Imported the Earth and Sun models as playable characters. Player controller script. Imported the space skybox.
