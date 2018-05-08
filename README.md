@@ -24,7 +24,9 @@ Objects: We plan on creating all of the models and textures just like in Project
 
 [Demo Link](https://github.com/RayGar/VR-Project3/raw/master/version1.apk)
 
-Libraries used - 
+Lastly, we imported this project from Unity's own VCS, Collab. Here is the Timeline which shows the collab history that shows who did what inside of Unity (unlike in this Github repository): https://developer.cloud.unity3d.com/collab/orgs/raygar/projects/project3/commits/
+
+## Libraries used:
 Engine: Unity 5
 SDK: Samsung GEAR VR (not compatible with other VR SDKs)
 
