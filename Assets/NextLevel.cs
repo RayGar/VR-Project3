@@ -6,7 +6,8 @@ public class NextLevel : MonoBehaviour
 {
 
     void OnTriggerEnter(Collider collider)
-    {
+    { 
         Application.LoadLevel(Application.loadedLevel + 1);
+       
     }
 }
